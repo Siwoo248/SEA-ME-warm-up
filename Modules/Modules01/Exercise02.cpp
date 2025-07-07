@@ -38,9 +38,9 @@ public:
 	}
 
 	virtual void showCar() {
-		cout << "Car model: " << model << endl;
-		cout << "Car year: " << year << endl;
-		cout << "Bettery Capacity: " << betteryCapacity << endl;
+		cout << "Car model: " << getMod() << endl;
+		cout << "Car year: " << getYear() << endl;
+		cout << "Bettery Capacity: " << getBett() << endl;
 	}
 };
 
@@ -67,8 +67,8 @@ public:
 		*/
 		cout << endl;
 		ElectricCar::showCar();
-		cout << "Zero to Hundred : " << ztoh << " sec" << endl;
-		cout << "Top Speed: " << topSpeed << " km/h" << endl;
+		cout << "Zero to Hundred : " << getZtoh() << " sec" << endl;
+		cout << "Top Speed: " << getTopSpeed() << " km/h" << endl;
 		cout << endl;
 	}
 };
