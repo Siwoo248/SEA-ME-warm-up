@@ -14,7 +14,7 @@ class ElectricCar {
 private:
 	string model;
 	int year;
-	int betteryCapacity;
+	int betteryCapacity ,a ,b;
 public:
 	ElectricCar(const string& mod="", int y=0, int b=0) : model(mod), year(y), betteryCapacity(b) {
 		// constructor
@@ -75,7 +75,7 @@ public:
 
 int main() {
 	ElectricCar A("Ioniq 9", 2025, 110);
-	A.showCar();
+    A.showCar();
 
 	SuperCar B("Spectre", 2024, 105, 4.5, 250);
 	B.showCar();
