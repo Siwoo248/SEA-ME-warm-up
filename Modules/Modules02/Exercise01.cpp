@@ -9,7 +9,6 @@ class Part {
 public:
     virtual void print() = 0; // Pure virtual function to be overridden by derived classes
     virtual ~Part() {}
-
     // Getter
     int getIndex() const { return index; }
 };
@@ -126,7 +125,6 @@ public:
         engine_ = new Engine();
         wheels_ = new Wheel();
         brakes_ = new Brake();
-
     }
 
     void checkParts() {
