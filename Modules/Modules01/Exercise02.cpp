@@ -74,10 +74,18 @@ public:
 };
 
 int main() {
-	ElectricCar A("Ioniq 9", 2025, 110);
+	ElectricCar A;
+	A.setMod("Ioniq 9");
+	A.setYear(2025);
+	A.setBett(110);
     A.showCar();
 
-	SuperCar B("Spectre", 2024, 105, 4.5, 250);
+	SuperCar B;
+	B.setMod("Spectre");
+	B.setYear(2024);
+	B.setBett(105);
+	B.setZtoh(4.5);
+	B.setTopSpeed(250);
 	B.showCar();
 
 	return 0;
