@@ -1,0 +1,19 @@
+# ninja log v6
+258	3416	7740217057626259	CMakeFiles/phone_book.dir/phone_book_autogen/mocs_compilation.cpp.obj	b4f2ad198d94d116
+22	256	7740217055267573	phone_book_autogen/timestamp	c8662fd0fd99aa12
+22	256	7740217055267573	phone_book_autogen/mocs_compilation.cpp	c8662fd0fd99aa12
+273	3670	7740217057786831	CMakeFiles/phone_book.dir/mainwindow.cpp.obj	234b1c6a9c16d0fc
+22	256	7740217055267573	C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/phone_book_autogen/timestamp	c8662fd0fd99aa12
+265	3332	7740217057700965	CMakeFiles/phone_book.dir/main.cpp.obj	1e2d662d114149f
+22	256	7740217055267573	C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/phone_book_autogen/mocs_compilation.cpp	c8662fd0fd99aa12
+1129	2904	7739321524176186	CMakeFiles/phone_book.dir/contact.cpp.obj	d68afa9047e0813b
+273	2724	7739377556151430	CMakeFiles/phone_book.dir/contact_list.cpp.obj	ee01242beb3910c5
+3670	4055	7740217091758475	phone_book.exe	c39610e3beac0f86
+25	265	7740217210185671	phone_book_autogen/timestamp	c8662fd0fd99aa12
+25	265	7740217210185671	phone_book_autogen/mocs_compilation.cpp	c8662fd0fd99aa12
+25	265	7740217210185671	C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/phone_book_autogen/timestamp	c8662fd0fd99aa12
+25	265	7740217210185671	C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/phone_book_autogen/mocs_compilation.cpp	c8662fd0fd99aa12
+273	3351	7740217212666904	CMakeFiles/phone_book.dir/main.cpp.obj	1e2d662d114149f
+267	3372	7740217212600959	CMakeFiles/phone_book.dir/phone_book_autogen/mocs_compilation.cpp.obj	b4f2ad198d94d116
+282	3584	7740217212752986	CMakeFiles/phone_book.dir/mainwindow.cpp.obj	234b1c6a9c16d0fc
+3584	3940	7740217245770601	phone_book.exe	c39610e3beac0f86

@@ -1,0 +1,9 @@
+C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/phone_book.dir
+C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/phone_book_autogen_timestamp_deps.dir
+C:/SEAME/SEA-ME-warm-up/Modules/Modules03/phone_book/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/phone_book_autogen.dir
